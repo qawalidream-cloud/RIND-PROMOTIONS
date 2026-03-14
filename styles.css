@@ -512,7 +512,7 @@ section {
 .artist-description {
     font-size: 1rem;
     color: var(--text-light);
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     line-height: 1.6;
 }
 
